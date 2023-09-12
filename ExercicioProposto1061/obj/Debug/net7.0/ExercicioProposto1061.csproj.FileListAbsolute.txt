@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\bin\Debug\net7.0\ExercicioProposto1061.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\bin\Debug\net7.0\ExercicioProposto1061.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\bin\Debug\net7.0\ExercicioProposto1061.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\bin\Debug\net7.0\ExercicioProposto1061.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\bin\Debug\net7.0\ExercicioProposto1061.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\ExercicioProposto1061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\ExercicioProposto1061.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\ExercicioProposto1061.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\ExercicioProposto1061.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\ExercicioProposto1061.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\refint\ExercicioProposto1061.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\ExercicioProposto1061.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\ExercicioProposto1061.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1061\obj\Debug\net7.0\ref\ExercicioProposto1061.dll

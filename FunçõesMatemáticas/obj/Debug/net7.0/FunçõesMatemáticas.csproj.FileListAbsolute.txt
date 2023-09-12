@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\FunçõesMatemáticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\FunçõesMatemáticas.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\FunçõesMatemáticas.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\FunçõesMatemáticas.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\bin\Debug\net7.0\FunçõesMatemáticas.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\bin\Debug\net7.0\FunçõesMatemáticas.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\bin\Debug\net7.0\FunçõesMatemáticas.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\bin\Debug\net7.0\FunçõesMatemáticas.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\bin\Debug\net7.0\FunçõesMatemáticas.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\FunçõesMatemáticas.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\refint\FunçõesMatemáticas.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\FunçõesMatemáticas.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\FunçõesMatemáticas.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\FunçõesMatemáticas\obj\Debug\net7.0\ref\FunçõesMatemáticas.dll

@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\ExercicioProposto1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\ExercicioProposto1011.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\ExercicioProposto1011.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\ExercicioProposto1011.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\bin\Debug\net7.0\ExercicioProposto1011.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\bin\Debug\net7.0\ExercicioProposto1011.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\bin\Debug\net7.0\ExercicioProposto1011.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\bin\Debug\net7.0\ExercicioProposto1011.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\bin\Debug\net7.0\ExercicioProposto1011.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\ExercicioProposto1011.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\refint\ExercicioProposto1011.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\ExercicioProposto1011.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\ExercicioProposto1011.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\ExercicioProposto1011\obj\Debug\net7.0\ref\ExercicioProposto1011.dll
