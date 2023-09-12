@@ -14,7 +14,15 @@ namespace ExercicioResolvido3Cond
             y = int.Parse(vet[1]);
             z = int.Parse(vet[2]);
 
-            if(x < y || x )
+            if(x < y && x < z) {
+                Console.WriteLine("MENOR = " + x);
+            }
+            else if(y < z){
+                Console.WriteLine("MENOR = "+ y);
+            }
+            else{
+                Console.WriteLine("MENOR = "+z);
+            }
         }
     }
 }

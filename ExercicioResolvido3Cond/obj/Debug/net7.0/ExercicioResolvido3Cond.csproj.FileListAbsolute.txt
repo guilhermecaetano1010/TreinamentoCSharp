@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\bin\Debug\net7.0\ExercicioResolvido3Cond.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\bin\Debug\net7.0\ExercicioResolvido3Cond.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\bin\Debug\net7.0\ExercicioResolvido3Cond.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\bin\Debug\net7.0\ExercicioResolvido3Cond.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\bin\Debug\net7.0\ExercicioResolvido3Cond.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\ExercicioResolvido3Cond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\ExercicioResolvido3Cond.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\ExercicioResolvido3Cond.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\ExercicioResolvido3Cond.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\ExercicioResolvido3Cond.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\refint\ExercicioResolvido3Cond.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\ExercicioResolvido3Cond.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\ExercicioResolvido3Cond.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido3Cond\obj\Debug\net7.0\ref\ExercicioResolvido3Cond.dll
