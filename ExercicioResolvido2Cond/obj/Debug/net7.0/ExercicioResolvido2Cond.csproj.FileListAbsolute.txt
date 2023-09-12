@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\ExercicioResolvido2Cond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\ExercicioResolvido2Cond.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\ExercicioResolvido2Cond.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\ExercicioResolvido2Cond.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\bin\Debug\net7.0\ExercicioResolvido2Cond.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\bin\Debug\net7.0\ExercicioResolvido2Cond.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\bin\Debug\net7.0\ExercicioResolvido2Cond.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\bin\Debug\net7.0\ExercicioResolvido2Cond.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\bin\Debug\net7.0\ExercicioResolvido2Cond.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\ExercicioResolvido2Cond.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\refint\ExercicioResolvido2Cond.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\ExercicioResolvido2Cond.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\ExercicioResolvido2Cond.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioResolvido2Cond\obj\Debug\net7.0\ref\ExercicioResolvido2Cond.dll
