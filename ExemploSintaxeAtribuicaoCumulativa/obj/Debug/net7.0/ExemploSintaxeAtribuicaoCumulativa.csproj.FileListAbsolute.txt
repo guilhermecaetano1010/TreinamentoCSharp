@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\bin\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\bin\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\bin\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\bin\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\bin\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\refint\ExemploSintaxeAtribuicaoCumulativa.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\ExemploSintaxeAtribuicaoCumulativa.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeAtribuicaoCumulativa\obj\Debug\net7.0\ref\ExemploSintaxeAtribuicaoCumulativa.dll
