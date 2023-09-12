@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\bin\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\bin\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\bin\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\bin\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\bin\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\refint\ExemploSintaxeOpcionalSwitchCase.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\ExemploSintaxeOpcionalSwitchCase.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploSintaxeOpcionalSwitchCase\obj\Debug\net7.0\ref\ExemploSintaxeOpcionalSwitchCase.dll
