@@ -1,0 +1,14 @@
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\bin\Debug\net7.0\ExercicioResolvido1Cond.exe
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\bin\Debug\net7.0\ExercicioResolvido1Cond.deps.json
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\bin\Debug\net7.0\ExercicioResolvido1Cond.runtimeconfig.json
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\bin\Debug\net7.0\ExercicioResolvido1Cond.dll
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\bin\Debug\net7.0\ExercicioResolvido1Cond.pdb
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\ExercicioResolvido1Cond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\ExercicioResolvido1Cond.AssemblyInfoInputs.cache
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\ExercicioResolvido1Cond.AssemblyInfo.cs
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\ExercicioResolvido1Cond.csproj.CoreCompileInputs.cache
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\ExercicioResolvido1Cond.dll
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\refint\ExercicioResolvido1Cond.dll
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\ExercicioResolvido1Cond.pdb
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\ExercicioResolvido1Cond.genruntimeconfig.cache
+C:\Users\97527\Desktop\TreinamentoC#\ExercicioResolvido1Cond\obj\Debug\net7.0\ref\ExercicioResolvido1Cond.dll
