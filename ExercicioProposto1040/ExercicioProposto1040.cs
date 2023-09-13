@@ -43,4 +43,7 @@ namespace ExercicioProposto1040
         }
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8ee01f3eac65879c60934b9cad096ceab29044b6
