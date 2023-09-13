@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\ExercicioProposto1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\ExercicioProposto1041.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\ExercicioProposto1041.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\ExercicioProposto1041.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\bin\Debug\net7.0\ExercicioProposto1041.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\bin\Debug\net7.0\ExercicioProposto1041.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\bin\Debug\net7.0\ExercicioProposto1041.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\bin\Debug\net7.0\ExercicioProposto1041.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\bin\Debug\net7.0\ExercicioProposto1041.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\ExercicioProposto1041.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\refint\ExercicioProposto1041.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\ExercicioProposto1041.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\ExercicioProposto1041.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioProposto1041\obj\Debug\net7.0\ref\ExercicioProposto1041.dll
