@@ -12,3 +12,17 @@ C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\E
 C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.pdb
 C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.genruntimeconfig.cache
 C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ref\ExercicioResolvido2Repet.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\refint\ExercicioResolvido2Repet.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\bin\Debug\net7.0\ExercicioResolvido2Repet.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\bin\Debug\net7.0\ExercicioResolvido2Repet.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\bin\Debug\net7.0\ExercicioResolvido2Repet.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\bin\Debug\net7.0\ExercicioResolvido2Repet.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\bin\Debug\net7.0\ExercicioResolvido2Repet.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ExercicioResolvido2Repet.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioResolvido2Repet\obj\Debug\net7.0\ref\ExercicioResolvido2Repet.dll
