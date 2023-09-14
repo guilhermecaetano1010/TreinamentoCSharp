@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\bin\Debug\net7.0\ExercicioProposto1115.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\bin\Debug\net7.0\ExercicioProposto1115.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\bin\Debug\net7.0\ExercicioProposto1115.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\bin\Debug\net7.0\ExercicioProposto1115.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\bin\Debug\net7.0\ExercicioProposto1115.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\ExercicioProposto1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\ExercicioProposto1115.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\ExercicioProposto1115.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\ExercicioProposto1115.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\ExercicioProposto1115.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\refint\ExercicioProposto1115.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\ExercicioProposto1115.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\ExercicioProposto1115.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturasRepetitivas\ExercicioProposto1115\obj\Debug\net7.0\ref\ExercicioProposto1115.dll
