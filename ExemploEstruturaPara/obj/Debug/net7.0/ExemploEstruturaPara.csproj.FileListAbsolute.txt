@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\ExemploEstruturaPara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\ExemploEstruturaPara.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\ExemploEstruturaPara.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\ExemploEstruturaPara.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\bin\Debug\net7.0\ExemploEstruturaPara.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\bin\Debug\net7.0\ExemploEstruturaPara.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\bin\Debug\net7.0\ExemploEstruturaPara.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\bin\Debug\net7.0\ExemploEstruturaPara.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\bin\Debug\net7.0\ExemploEstruturaPara.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\ExemploEstruturaPara.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\refint\ExemploEstruturaPara.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\ExemploEstruturaPara.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\ExemploEstruturaPara.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploEstruturaPara\obj\Debug\net7.0\ref\ExemploEstruturaPara.dll
