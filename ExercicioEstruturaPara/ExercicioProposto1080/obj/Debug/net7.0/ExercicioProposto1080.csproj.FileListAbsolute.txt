@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\bin\Debug\net7.0\ExercicioProposto1080.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\bin\Debug\net7.0\ExercicioProposto1080.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\bin\Debug\net7.0\ExercicioProposto1080.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\bin\Debug\net7.0\ExercicioProposto1080.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\bin\Debug\net7.0\ExercicioProposto1080.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\ExercicioProposto1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\ExercicioProposto1080.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\ExercicioProposto1080.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\ExercicioProposto1080.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\ExercicioProposto1080.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\refint\ExercicioProposto1080.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\ExercicioProposto1080.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\ExercicioProposto1080.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1080\obj\Debug\net7.0\ref\ExercicioProposto1080.dll
