@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExercicioEstruturaPara\\ExercicioProposto1081\\ExercicioProposto1081.csproj",
-      "projectName": "ExercicioProposto1081",
-      "projectPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExercicioEstruturaPara\\ExercicioProposto1081\\ExercicioProposto1081.csproj",
+      "projectUniqueName": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExerciciosEstruturaPara\\ExercicioProposto1094\\ExercicioProposto1094.csproj",
+      "projectName": "ExercicioProposto1094",
+      "projectPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExerciciosEstruturaPara\\ExercicioProposto1094\\ExercicioProposto1094.csproj",
       "packagesPath": "C:\\Users\\97527\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExercicioEstruturaPara\\ExercicioProposto1081\\obj\\",
+      "outputPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExerciciosEstruturaPara\\ExercicioProposto1094\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\97527\\AppData\\Roaming\\NuGet\\NuGet.Config"
