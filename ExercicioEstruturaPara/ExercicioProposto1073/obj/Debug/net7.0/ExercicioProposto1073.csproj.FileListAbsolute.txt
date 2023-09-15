@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\bin\Debug\net7.0\ExercicioProposto1073.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\bin\Debug\net7.0\ExercicioProposto1073.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\bin\Debug\net7.0\ExercicioProposto1073.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\bin\Debug\net7.0\ExercicioProposto1073.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\bin\Debug\net7.0\ExercicioProposto1073.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\ExercicioProposto1073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\ExercicioProposto1073.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\ExercicioProposto1073.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\ExercicioProposto1073.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\ExercicioProposto1073.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\refint\ExercicioProposto1073.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\ExercicioProposto1073.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\ExercicioProposto1073.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExercicioEstruturaPara\ExercicioProposto1073\obj\Debug\net7.0\ref\ExercicioProposto1073.dll
