@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\ExercicioProposto1151.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\ExercicioProposto1151.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\ExercicioProposto1151.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\ExercicioProposto1151.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\bin\Debug\net7.0\ExercicioProposto1151.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\bin\Debug\net7.0\ExercicioProposto1151.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\bin\Debug\net7.0\ExercicioProposto1151.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\bin\Debug\net7.0\ExercicioProposto1151.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\bin\Debug\net7.0\ExercicioProposto1151.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\ExercicioProposto1151.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\refint\ExercicioProposto1151.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\ExercicioProposto1151.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\ExercicioProposto1151.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosEstruturaPara\ExercicioProposto1151\obj\Debug\net7.0\ref\ExercicioProposto1151.dll
