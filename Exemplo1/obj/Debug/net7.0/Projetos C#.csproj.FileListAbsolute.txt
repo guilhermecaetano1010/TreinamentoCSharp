@@ -26,3 +26,17 @@ C:\Users\97527\Documents\Projetos\Projetos C#\Exemplo1\obj\Debug\net7.0\refint\P
 C:\Users\97527\Documents\Projetos\Projetos C#\Exemplo1\obj\Debug\net7.0\Projetos C#.pdb
 C:\Users\97527\Documents\Projetos\Projetos C#\Exemplo1\obj\Debug\net7.0\Projetos C#.genruntimeconfig.cache
 C:\Users\97527\Documents\Projetos\Projetos C#\Exemplo1\obj\Debug\net7.0\ref\Projetos C#.dll
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\bin\Debug\net7.0\Projetos C#.exe
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\bin\Debug\net7.0\Projetos C#.deps.json
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\bin\Debug\net7.0\Projetos C#.runtimeconfig.json
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\bin\Debug\net7.0\Projetos C#.dll
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\bin\Debug\net7.0\Projetos C#.pdb
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\Projetos C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\Projetos C#.AssemblyInfoInputs.cache
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\Projetos C#.AssemblyInfo.cs
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\Projetos C#.csproj.CoreCompileInputs.cache
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\Projetos C#.dll
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\refint\Projetos C#.dll
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\Projetos C#.pdb
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\Projetos C#.genruntimeconfig.cache
+c:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\Exemplo1\obj\Debug\net7.0\ref\Projetos C#.dll

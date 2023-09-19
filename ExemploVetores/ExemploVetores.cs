@@ -3,6 +3,7 @@ using System.Globalization;
 
 namespace ExemploVetores
 {
+
     public class ExemploVetores {
        static void Main(string[] args) {
             int N;
@@ -20,4 +21,5 @@ namespace ExemploVetores
             }
        } 
     }
+
 }

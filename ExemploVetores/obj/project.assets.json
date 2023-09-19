@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploVetores\\ExemploVetores.csproj",
-      "projectName": "ExemploVetores",
-      "projectPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploVetores\\ExemploVetores.csproj",
+      "projectUniqueName": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploVetores1\\ExemploVetores1.csproj",
+      "projectName": "ExemploVetores1",
+      "projectPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploVetores1\\ExemploVetores1.csproj",
       "packagesPath": "C:\\Users\\97527\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploVetores\\obj\\",
+      "outputPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploVetores1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\97527\\AppData\\Roaming\\NuGet\\NuGet.Config"
