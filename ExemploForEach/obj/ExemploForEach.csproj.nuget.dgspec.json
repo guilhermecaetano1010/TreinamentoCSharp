@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExerciciosVetores\\ExercicioResolvido03\\ExercicioResolvido03.csproj": {}
+    "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploForEach\\ExemploForEach.csproj": {}
   },
   "projects": {
-    "c:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExerciciosVetores\\ExercicioResolvido03\\ExercicioResolvido03.csproj": {
+    "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploForEach\\ExemploForEach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExerciciosVetores\\ExercicioResolvido03\\ExercicioResolvido03.csproj",
-        "projectName": "ExercicioResolvido03",
-        "projectPath": "c:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExerciciosVetores\\ExercicioResolvido03\\ExercicioResolvido03.csproj",
+        "projectUniqueName": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploForEach\\ExemploForEach.csproj",
+        "projectName": "ExemploForEach",
+        "projectPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploForEach\\ExemploForEach.csproj",
         "packagesPath": "C:\\Users\\97527\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExerciciosVetores\\ExercicioResolvido03\\obj\\",
+        "outputPath": "C:\\Users\\97527\\Documents\\Projetos\\Projetos C#\\TreinamentoC#\\TreinamentoCSharp\\ExemploForEach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\97527\\AppData\\Roaming\\NuGet\\NuGet.Config"

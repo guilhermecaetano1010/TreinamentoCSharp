@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\bin\Debug\net7.0\ExemploForEach.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\bin\Debug\net7.0\ExemploForEach.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\bin\Debug\net7.0\ExemploForEach.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\bin\Debug\net7.0\ExemploForEach.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\bin\Debug\net7.0\ExemploForEach.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\ExemploForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\ExemploForEach.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\ExemploForEach.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\ExemploForEach.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\ExemploForEach.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\refint\ExemploForEach.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\ExemploForEach.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\ExemploForEach.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExemploForEach\obj\Debug\net7.0\ref\ExemploForEach.dll
