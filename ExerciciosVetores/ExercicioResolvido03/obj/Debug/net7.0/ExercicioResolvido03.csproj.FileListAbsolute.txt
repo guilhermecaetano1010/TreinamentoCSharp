@@ -1,0 +1,14 @@
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\ExercicioResolvido03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\ExercicioResolvido03.AssemblyInfoInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\ExercicioResolvido03.AssemblyInfo.cs
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\ExercicioResolvido03.csproj.CoreCompileInputs.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\bin\Debug\net7.0\ExercicioResolvido03.exe
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\bin\Debug\net7.0\ExercicioResolvido03.deps.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\bin\Debug\net7.0\ExercicioResolvido03.runtimeconfig.json
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\bin\Debug\net7.0\ExercicioResolvido03.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\bin\Debug\net7.0\ExercicioResolvido03.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\ExercicioResolvido03.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\refint\ExercicioResolvido03.dll
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\ExercicioResolvido03.pdb
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\ExercicioResolvido03.genruntimeconfig.cache
+C:\Users\97527\Documents\Projetos\Projetos C#\TreinamentoC#\TreinamentoCSharp\ExerciciosVetores\ExercicioResolvido03\obj\Debug\net7.0\ref\ExercicioResolvido03.dll
