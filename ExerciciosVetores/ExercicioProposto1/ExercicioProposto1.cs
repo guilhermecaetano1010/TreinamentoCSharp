@@ -12,16 +12,18 @@ namespace ExercicioProposto1
             N = int.Parse(Console.ReadLine());
             vetor = new double[N];
 
+            string[] valores = Console.ReadLine().Split(' ');
+
             for (int i = 0; i < N; i++) {
-                vetor[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                vetor[i] = double.Parse(valores[i], CultureInfo.InvariantCulture);
             }
 
             double maior = vetor[0];
             int posicaoMaior = 0;
 
-            for (int i = 0; i < N; i++) {
+            for (int i = 1; i < N; i++) {
                 if (vetor[i] > maior) {
-                    maior = vetor[1];
+                    maior = vetor[i];
                     posicaoMaior = i;
                 }
             }
