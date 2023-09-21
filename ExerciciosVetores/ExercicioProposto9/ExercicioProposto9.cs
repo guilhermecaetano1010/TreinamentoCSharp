@@ -21,7 +21,6 @@ namespace ExercicioProposto9
                 venda[i] = double.Parse(valores[2], CultureInfo.InvariantCulture);
             }
 
-            // 1: vamos encontrar a quantidade para cada faixa de lucro desejada
             int contAbaixoDe10 = 0;
             int contEntre10E20 = 0;
             int contAcimaDe20 = 0;
@@ -45,7 +44,7 @@ namespace ExercicioProposto9
             Console.WriteLine("Lucro entre 10% e 20%: " + contEntre10E20);
             Console.WriteLine("Lucro acima de 20%: " + contAcimaDe20);
 
-            // 2: vamos achar os totais
+
             double totalCompra = 0.0;
             double totalVenda = 0.0;
             for (int i = 0; i < N; i++) {
