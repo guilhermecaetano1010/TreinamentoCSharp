@@ -1,0 +1,14 @@
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\bin\Debug\net7.0\ExemploMatrizes.exe
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\bin\Debug\net7.0\ExemploMatrizes.deps.json
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\bin\Debug\net7.0\ExemploMatrizes.runtimeconfig.json
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\bin\Debug\net7.0\ExemploMatrizes.dll
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\bin\Debug\net7.0\ExemploMatrizes.pdb
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\ExemploMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\ExemploMatrizes.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\ExemploMatrizes.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\ExemploMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\ExemploMatrizes.dll
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\refint\ExemploMatrizes.dll
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\ExemploMatrizes.pdb
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\ExemploMatrizes.genruntimeconfig.cache
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExemploMatrizes\obj\Debug\net7.0\ref\ExemploMatrizes.dll
