@@ -1,0 +1,14 @@
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\bin\Debug\net7.0\ExercicioProposto7.exe
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\bin\Debug\net7.0\ExercicioProposto7.deps.json
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\bin\Debug\net7.0\ExercicioProposto7.runtimeconfig.json
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\bin\Debug\net7.0\ExercicioProposto7.dll
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\bin\Debug\net7.0\ExercicioProposto7.pdb
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\ExercicioProposto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\ExercicioProposto7.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\ExercicioProposto7.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\ExercicioProposto7.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\ExercicioProposto7.dll
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\refint\ExercicioProposto7.dll
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\ExercicioProposto7.pdb
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\ExercicioProposto7.genruntimeconfig.cache
+C:\Users\Guilherme\Documents\TreinamentoCSharp\ExerciciosMatrizes\ExercicioProposto7\obj\Debug\net7.0\ref\ExercicioProposto7.dll
